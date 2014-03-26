@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppBaseTheme" parent="android:Theme.Black">
+        <!-- API 1-10 theme customizations go here -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Theme customizations NOT specific to a particular API -->
+    </style>    
+</resources>

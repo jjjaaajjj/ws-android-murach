@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Stopwatch</string>
+    <string name="app_description">Select to view stopwatch.</string>
+    <string name="title_activity_stopwatch">Stopwatch</string>
+    <string name="separator_main">:</string>
+    <string name="separator_tenths">.</string>
+    <string name="hours">hours</string>
+    <string name="mins">mins</string>
+    <string name="secs">secs</string>
+    <string name="tenths">1/10</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="zero_value_1">0</string>
+    <string name="zero_value_2">00</string>
+    
+</resources>
